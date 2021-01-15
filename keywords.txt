@@ -1,0 +1,4 @@
+softPwmSTM32Set	KEYWORD2
+softPwmSTM32Attach	KEYWORD2
+softPwmSTM32Dettach	KEYWORD2
+softPwmSTM32Init	KEYWORD2
